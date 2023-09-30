@@ -5,6 +5,7 @@ body{
     background-color: #000000;
     color: white;
     margin: auto;
+    user-select: none;
 }
 h1{
     margin: 0px;
