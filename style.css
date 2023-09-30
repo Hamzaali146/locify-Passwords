@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+    width: 400px;
+    font-family: 'Anonymous Pro', monospace;
+    background-color: #000000;
+    color: white;
+    margin: auto;
+}
+h1{
+    margin: 0px;
+    width: 100%;
+}
+h1:hover{
+    color: red;
+    transition: all;
+    transition-duration: 500ms;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    max-width: 320px;
+    margin: 40px auto;
+}
+button{
+    border-radius: 20px;
+    padding: 12px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color:gray;
+    color: white;
+    font-family: 'Anonymous Pro', monospace;
+    box-shadow: -3px 3px 3px red; 
+    margin-top: 8px;
+}
+button:hover{
+    background-color: wheat;
+    color: black;
+    transition: all;
+    transition-duration: 400ms;
+}
+/* .btn{
+    text-align:center ;
+    justify-content: center;
+} */
+#pass-el{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Anonymous Pro', monospace;
+}
+#pass-copy{
+    text-align: center;
+    color: red;
+    font-size: 25px;
+}
+.image{
+    text-align: center;
+}

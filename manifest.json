@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Locify Passwords",
+    "author": "Hamza Ali",
+    "description":"Locify Passwords helps user to choose their Passwords our extension is safe and secure as the Passwords!",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
