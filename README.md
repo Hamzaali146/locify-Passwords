@@ -1,3 +1,4 @@
+<h1>Description</h1>
 This is a simple yet powerful Random Password Generator web application created using HTML, CSS, and JavaScript. It generates strong and secure passwords with customizable options, making it easy for users to create unique and complex passwords for their online accounts.
 
 <h1>Features</h1>
