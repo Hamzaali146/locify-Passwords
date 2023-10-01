@@ -33,6 +33,7 @@ button{
     font-family: 'Anonymous Pro', monospace;
     box-shadow: -3px 3px 3px red; 
     margin-top: 8px;
+    cursor: pointer;
 }
 button:hover{
     background-color: wheat;
