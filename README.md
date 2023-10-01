@@ -11,7 +11,7 @@ This is a simple yet powerful Random Password Generator web application created 
 </ul>
 <h1>Usage</h1>
 <ul>
-    <li>Access the Random Password Generator <a href="https://sunny-marshmallow-3d531b.netlify.app/">here</a>.</li>
+    <li>Access the Random Password Generator <a href="https://sunny-marshmallow-3d531b.netlify.app/" target="_blank">here</a>.</li>
     <li>Click the "Generate Password" button to create a random password.</li>
     <li>Click the "Copy to Clipboard" button to copy the generated password.</li>
     <li>Use the generated password for your online accounts and stay secure!</li>
